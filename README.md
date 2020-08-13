@@ -12,3 +12,4 @@
 
 <table><tr><td><img src='https://github.com/naveenjoshii/avantari-assignment/blob/master/outputs/tiger.png?raw=true' style="height:200px;width:200px"></td><td><img src='https://github.com/naveenjoshii/avantari-assignment/blob/master/outputs/wolf.png?raw=true' style="height:200px;width:200px"></td></tr></table>
 
+##### Made with ❤ by [naveenjoshi](https://naveenjoshi.glitch.me)
